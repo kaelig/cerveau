@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md",
+            "file": "Dev tools/Component management tools.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md",
+                "file": "Dev tools/Component management tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md",
+                "file": "Dev tools/Component management tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md"
+                "file": "Dev tools/Component management tools.md"
               }
             }
           },
@@ -138,7 +138,7 @@
   },
   "active": "3e3e85d427cbf758",
   "lastOpenFiles": [
-    "Dev tools/Component management tools.md",
-    "Writring/Talk - AIGA Establishing Standards  and Defining Done.md"
+    "Writring/Talk - AIGA Establishing Standards  and Defining Done.md",
+    "Dev tools/Component management tools.md"
   ]
 }
