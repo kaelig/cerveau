@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a4ba49d590fc0b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e3e85d427cbf758",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07b879591505ddce",
+    "type": "split",
+    "children": [
+      {
+        "id": "5456ac2c59996ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e07545da0585438a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "90985995d36dcf34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0894ba0fb90d31a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eff65f28f70bf253",
+    "type": "split",
+    "children": [
+      {
+        "id": "b60b76d469c1fb84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc378e682496439",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dddf03d22243fa6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "248a01b6ffa7e113",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64d9c2546564d979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writring/Talk - AIGA Establishing Standards  and Defining Done.md"
+              }
+            }
+          },
+          {
+            "id": "d59b9032c4549e1a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e3e85d427cbf758",
+  "lastOpenFiles": [
+    "Dev tools/Component management tools.md",
+    "Writring/Talk - AIGA Establishing Standards  and Defining Done.md"
+  ]
+}
