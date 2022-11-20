@@ -1,0 +1,1 @@
+I can't believe 2 ex MIT students at Clarity are already thinking about being t-shaped developer.  
